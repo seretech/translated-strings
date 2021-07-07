@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageStrings</string>
+    <string name="bookmark">Signets</string>
+    <string name="deleted">Supprimé</string>
+    <string name="processing">Traitement</string>
+    <string name="swipe_left_to">Balayez vers la gauche vers</string>
+    <string name="swipe_right_to">Balayez vers la droite vers</string>
+</resources>
