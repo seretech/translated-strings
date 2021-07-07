@@ -1,3 +1,5 @@
 rootProject.name = "LanguageStrings"
 include ':app'
 include ':languagestrings'
+include ':LanguageStrings1'
+include ':mylibrary'
